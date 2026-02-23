@@ -69,7 +69,7 @@
       "key": "live",
       "name": "🔞live",
       "type": 3,
-      "api": "https://pan.meil.wang/f/6AIZ/%E8%89%B2%E6%92%AD%E8%81%9A%E5%90%88.py",
+      "api": "https://github.com/xwseivei-lgtm/dianbo/blob/main/%E8%89%B2%E6%92%AD%E8%81%9A%E5%90%88.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -79,8 +79,8 @@
       "key": "live",
       "name": "🔞live韩",
       "type": 3,
-      "api": "https://pan.meil.wang/f/nJcW/%E7%86%8A%E7%8C%AB.py",
-      "searchable": 1,
+      "api": "https://github.com/xwseivei-lgtm/dianbo/blob/main/%E7%86%8A%E7%8C%AB.py",
+      "searchable": 1，
       "quickSearch": 1,
       "filterable": 1
     },
@@ -116,7 +116,7 @@
     },
 
     {
-      "key": "ThePorn",
+      "key": "ThePorn"，
       "name": "🔞ThePorn",
       "type": 4,
       "api": "https://learnpython.ggff.net/ThePorn",
@@ -1371,3 +1371,4 @@
   "spider": "http://oss4liview.moji.com/thd_file/2025/12/25/bdf0989afa4b23c0a0763ace713f109b.jpg;md5;f23788d6c3a5e4b1d3bf1ff1ee42da32"
 
 }
+
