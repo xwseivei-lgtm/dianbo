@@ -80,7 +80,7 @@
       "name": "🔞live韩",
       "type": 3,
       "api": "https://github.com/xwseivei-lgtm/dianbo/blob/main/%E7%86%8A%E7%8C%AB.py",
-      "searchable": 1，
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
@@ -116,7 +116,7 @@
     },
 
     {
-      "key": "ThePorn"，
+      "key": "ThePorn",
       "name": "🔞ThePorn",
       "type": 4,
       "api": "https://learnpython.ggff.net/ThePorn",
@@ -1369,6 +1369,4 @@
   ],
   "wallpaper": "https://imgs.catvod.com",
   "spider": "http://oss4liview.moji.com/thd_file/2025/12/25/bdf0989afa4b23c0a0763ace713f109b.jpg;md5;f23788d6c3a5e4b1d3bf1ff1ee42da32"
-
 }
-
